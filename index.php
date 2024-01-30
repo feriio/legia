@@ -1,12 +1,11 @@
+<!DOCTYPE html>
 <html>
-<style>
-  body {
-    background-color: lightgreen;
-    height: 100%;
-  }
-</style>
-  
-  <body>
-  
+<head>
+    <title>Moja Prosta Strona PHP</title>
+</head>
+<body>
+    <?php
+        echo "<h1>Siema</h1>";
+    ?>
 </body>
 </html>
